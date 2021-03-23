@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wonyoung-chi
+- 👋 Hi, I’m Wonyoung Chi.
 - 👀 I’m interested in a serverless architecture.
 - 🌱 I’m currently learning node.js
 - 💞️ 📫 Anyone who wants to reach me, please send me an email.
